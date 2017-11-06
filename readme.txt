@@ -13,13 +13,13 @@ A counter to track how many times your posts are viewed.
 
 == Description ==
 
-"Post View Counter" does what it says on the tin - it counts how many hits your posts receive.
+"Post View Counter" does what it says on the tin - it counts how many views your posts receive.
 
 This is not meant as a replacement for more advanced analytics plugins - it is a counter so you can see which of your posts are more popular without diving too deeply into complicated viewing statistics.
 
-Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/Post-Hit-Counter).
+Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/Post-View-Counter).
 
-*This plugin was initially created as a demo for [a workshop](http://2014.capetown.wordcamp.org/session/building-your-first-wordpress-plugin/) I ran at WordCamp Cape Town 2014. I have since fleshed it out and enhanced it to be more useful.*
+*I built this plugin to be used as a demo for teaching a plugin development workshop.*
 
 == Installation ==
 
