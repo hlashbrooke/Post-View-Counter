@@ -23,7 +23,7 @@ Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/
 
 == Installation ==
 
-Installing "Post View Counter" can be done either by searching for "Post Hit Counter" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
+Installing "Post View Counter" can be done either by searching for "Post View Counter" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
 
 1. Download the plugin via WordPress.org
 2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
